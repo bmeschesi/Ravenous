@@ -5,7 +5,7 @@ import BusinessList from '../BusinessList/BusinessList';
 
 const business = {
   imageSrc: 'https://content.codecademy.com/programs/react/ravenous/pizza.jpg',
-  name: 'MarginOtto Pizzeria',
+  name: 'Bruno Pizzeria',
   address: '1010 Paddington Way',
   city: 'Flavortown',
   state: 'NY',
